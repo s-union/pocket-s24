@@ -44,6 +44,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  noIndex: true,
 
   themeConfig: {
     // Replace with your project's social card
@@ -62,7 +63,6 @@ const config: Config = {
         },
       ],
     },
-    noIndex: true,
     footer: {
       style: 'dark',
       links: [
