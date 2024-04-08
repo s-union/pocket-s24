@@ -1,0 +1,8 @@
+{
+  "label": "基本情報",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "まず確認すべき情報の一覧です。"
+  }
+}

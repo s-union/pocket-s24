@@ -1,0 +1,8 @@
+{
+  "label": "備品",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "備品の貸し出し、返却に関する項目です。"
+  }
+}
