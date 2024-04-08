@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types'
 import { themes as prismThemes } from 'prism-react-renderer'
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '団体のしおりPocket',
+  tagline: '2024年度野田地区新歓団体向け',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -48,7 +48,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/ogp.png',
     navbar: {
       title: '団体のしおりPocket',
       logo: {
@@ -57,7 +57,7 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/s-union',
           label: 'GitHub',
           position: 'right',
         },
